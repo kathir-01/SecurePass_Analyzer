@@ -115,7 +115,7 @@ SecurePass-Analyzer/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/SecurePass-Analyzer.git
+   git clone https://github.com/kathir-01/SecurePass-Analyzer.git
    ```
 
 2. **Navigate into the project directory:**
@@ -192,7 +192,7 @@ Contributions are always welcome! Follow these steps to contribute:
 
 | 🌟 Stars | 🔀 Forks | ⚠️ Open Issues |
 | :---: | :---: | :---: |
-| ![GitHub stars](https://img.shields.io/github/stars/yourusername/SecurePass-Analyzer?style=social) | ![GitHub forks](https://img.shields.io/github/forks/yourusername/SecurePass-Analyzer?style=social) | ![GitHub issues](https://img.shields.io/github/issues/yourusername/SecurePass-Analyzer) |
+| ![GitHub stars](https://img.shields.io/github/stars/kathir-01/SecurePass-Analyzer?style=social) | ![GitHub forks](https://img.shields.io/github/forks/kathir-01/SecurePass-Analyzer?style=social) | ![GitHub issues](https://img.shields.io/github/issues/kathir-01/SecurePass-Analyzer) |
 
 </div>
 
@@ -209,7 +209,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more details
 Created with ❤️ by **Kathiravan SK**
 
 - **GitHub:** [@KATHIR-01](https://github.com/kathir-01)
-- **LinkedIn:** [Kathiravan SK](https://linkedin.com/in/yourusername)
+- **LinkedIn:** [Kathiravan SK](https://linkedin.com/in/kathir-01)
 
 <div align="center">
   <br />
