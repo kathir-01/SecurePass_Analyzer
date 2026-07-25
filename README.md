@@ -19,7 +19,7 @@
   </p>
 
   <p align="center">
-    <a href="https://yourusername.github.io/SecurePass-Analyzer/"><strong>🌐 View Live Demo</strong></a>
+    <a href="https://kathir-01.github.io/SecurePass-Analyzer/"><strong>🌐 View Live Demo</strong></a>
     ·
     <a href="#-installation"><strong>⚡ Quickstart</strong></a>
     ·
@@ -39,7 +39,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Live Application URL:** [https://yourusername.github.io/SecurePass-Analyzer/](https://yourusername.github.io/SecurePass-Analyzer/)
+🔗 **Live Application URL:** [https://kathir-01.github.io/SecurePass-Analyzer/](https://kathir-01.github.io/SecurePass-Analyzer/)
 
 ---
 
