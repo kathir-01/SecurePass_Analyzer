@@ -39,7 +39,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Live Application URL:** [https://kathir-01.github.io/SecurePass_Analyzer/](https://kathir-01.github.io/SecurePass-Analyzer/)
+🔗 **Live Application URL:** [Demo](https://kathir-01.github.io/SecurePass-Analyzer/)
 
 ---
 
