@@ -77,22 +77,22 @@
 <div align="center">
 
 ### 🌙 Dark Mode View
-![Dark Mode Screenshot](https://via.placeholder.com/800x450/0B1120/22C55E?text=SecurePass+Analyzer+-+Dark+Mode+Dashboard)
+![Dark Mode Screenshot](darkmode.png)
 
 <br />
 
 ### ☀️ Light Mode View
-![Light Mode Screenshot](https://via.placeholder.com/800x450/F1F5F9/0891B2?text=SecurePass+Analyzer+-+Light+Mode+Dashboard)
+![Light Mode Screenshot](lightmode.png)
 
 <br />
 
 ### 🔑 Password Generator & Recommendations
-![Generator Screenshot](https://via.placeholder.com/800x450/0F172A/FACC15?text=SecurePass+Analyzer+-+Password+Generator)
+![Generator Screenshot](generator.png)
 
 <br />
 
 ### 📱 Mobile Responsive View
-![Mobile View Screenshot](https://via.placeholder.com/400x650/0B1120/22C55E?text=Mobile+Responsive+View)
+![Mobile View Screenshot](mobileview.png)
 
 </div>
 
@@ -209,7 +209,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more details
 Created with ❤️ by **Kathiravan SK**
 
 - **GitHub:** [@KATHIR-01](https://github.com/kathir-01)
-- **LinkedIn:** [Kathiravan SK](https://linkedin.com/in/kathir-01)
+- **LinkedIn:** [Kathiravan SK](https://www.linkedin.com/in/kathiravan-s-k-7a574b328?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 <div align="center">
   <br />
